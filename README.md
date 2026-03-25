@@ -13,9 +13,9 @@
 ### 💫 About Me
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Advanced React & System Design**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, C++, or DeFi**
-- 📫 How to reach me: **your_email@example.com**
+- 👯 I’m looking to collaborate & contribute on **Open Source Projects**
+- 💬 Ask me about **JavaScript, C++, C, HTML, JAVA**
+- 📫 How to reach me: **indreshtharu15@gmail.com**
 
 ---
 
@@ -44,6 +44,9 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/indresh-tharu-0047ab331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://x.com/IndreshTha15496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/indreshchaudhary_15?igsh=aGtkbmttbG9ycDlp" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 </p>
